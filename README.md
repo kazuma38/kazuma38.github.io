@@ -1,6 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to Kazuma38 Page
 
-You can use the [editor on GitHub](https://github.com/kazuma38/kazuma38.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+this is the online portfolio that ive been forced to make(i dont even have a facebook page so not all that happy
+makeing this.)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
