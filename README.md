@@ -3,32 +3,33 @@
 This is the online portfolio that ive been forced to make, (i dont even have a facebook page so not all that happy
 makeing this).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About Me
 
-### Markdown
+- name
+- age
+- random fact number 1
+- random fact number 2
+- random fact number 3
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Examples of my work
+
+this is some stuff ive done (place holder)
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+
+
+
+
+
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
+## contact info
+- not crazy enogh to leave real info out on the net
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kazuma38/kazuma38.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
